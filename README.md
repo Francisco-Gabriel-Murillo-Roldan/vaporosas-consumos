@@ -1,7 +1,7 @@
 # VAPOROSAS
 
 <p align="center">
-  <img src="assets/Vaporosas.svg" alt="Vaporosas Logo" width="200"/>
+  <img src="assets/Vaporosas.svg" alt="Vaporosas Logo" width="600"/>
 </p>
 
 **Spanish Steam Locomotives Consumption Study**
