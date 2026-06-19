@@ -1,5 +1,9 @@
 # VAPOROSAS
 
+<p align="center">
+  <img src="assets/Vaporosas.svg" alt="Vaporosas Logo" width="200"/>
+</p>
+
 **Spanish Steam Locomotives Consumption Study**
 
 ---
@@ -25,26 +29,26 @@
 
 ## 📁 Estructura | Repository structure
 
+```
 vaporosas-consumos/
 ├── README.md
 ├── LICENSE
 ├── assets/
-│ ├── Vaporosas.png
-│ └── Vaporosas.svg
+│   ├── Vaporosas.png
+│   └── Vaporosas.svg
 ├── docs/
-│ ├── es/
-│ │ └── informe_ejecutivo.pdf
-│ └── en/
-│ └── executive_report.pdf
+│   ├── es/
+│   │   └── informe_ejecutivo.pdf
+│   └── en/
+│       └── executive_report.pdf
 ├── resultados/
-│ ├── csv/
-│ └── graficos/
-│ ├── *.svg (ES)
-│ └── *_en.svg (EN)
+│   ├── csv/
+│   └── graficos/
+│       ├── *.svg (ES)
+│       └── *_en.svg (EN)
 └── scripts/
-└── *.R (8 scripts)
-
----
+    └── *.R (8 scripts)
+```
 
 ## 📄 Documentación | Documentation
 
