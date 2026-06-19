@@ -1,0 +1,15 @@
+# Archivos temporales
+*.tmp
+*.temp
+*~
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
+
+# Archivos de editor
+*.swp
+*.swo
+
+# Archivos ODT (no subir)
+*.odt
