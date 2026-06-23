@@ -1,0 +1,25 @@
+"locomotora","zona","nombre_ruta","n","agua_zona","agua_sd_zona","carbon_zona","carbon_sd_zona","velocidad_zona"
+"AND240-4253","Ascenso","Vallarizasoria",1,370.2,NA,61.8,NA,60
+"AND240-4253","Descenso","Eje central andaluces",6,203.4,62.2,19.5,8.3,41.4
+"AND240-4253","Descenso","Vallarizasoria",1,323.8,NA,40.3,NA,56.7
+"AND240-4253","Mixto","Vallarizasoria",2,259,13.4,41.4,3.1,56
+"AND240-4253","Ondulado","Eje central andaluces",3,361.6,124.7,29.6,6.9,30.4
+"AND240-4253","Ondulado","Vallarizasoria",1,322.1,NA,52,NA,56.8
+"MZA 1701","Ascenso","Vallarizasoria",1,153.2,NA,13.6,NA,66.4
+"MZA 1701","Descenso","Eje central andaluces",6,137.9,139.2,8.1,5.8,42.3
+"MZA 1701","Descenso","Vallarizasoria",1,168.3,NA,8.7,NA,62.4
+"MZA 1701","Mixto","Vallarizasoria",2,117.9,10.1,9.4,0.2,64
+"MZA 1701","Ondulado","Eje central andaluces",3,137.4,238,17.8,15.5,26
+"MZA 1701","Ondulado","Vallarizasoria",1,123.2,NA,9.9,NA,62.3
+"MZA 1801","Ascenso","Vallarizasoria",1,136.8,NA,82.6,NA,66.4
+"MZA 1801","Descenso","Eje central andaluces",6,144.8,84.3,22.8,18.1,42.2
+"MZA 1801","Descenso","Vallarizasoria",1,60,NA,76.9,NA,59.4
+"MZA 1801","Mixto","Vallarizasoria",2,119.3,34.8,59,31.2,59.9
+"MZA 1801","Ondulado","Eje central andaluces",3,259.2,263.9,33.6,31.3,28.7
+"MZA 1801","Ondulado","Vallarizasoria",1,111.3,NA,52.6,NA,71
+"RN141-2106","Ascenso","Vallarizasoria",1,165.5,NA,14.5,NA,62
+"RN141-2106","Descenso","Eje central andaluces",6,133.5,70.3,6.5,5.2,45.4
+"RN141-2106","Descenso","Vallarizasoria",1,77.9,NA,8.7,NA,54.3
+"RN141-2106","Mixto","Vallarizasoria",2,113.6,15.6,12.3,2.7,55.6
+"RN141-2106","Ondulado","Eje central andaluces",3,111.3,192.8,17.9,17.6,27.9
+"RN141-2106","Ondulado","Vallarizasoria",1,133.1,NA,12.7,NA,62.3

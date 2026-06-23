@@ -1,0 +1,57 @@
+"locomotora","nombre_tramo","nombre_ruta","zona","n","agua_tramo","carbon_tramo","velocidad_tramo"
+"AND240-4253","Abéjar - Rabanera","Vallarizasoria","Ondulado",1,322.1,52,56.8
+"AND240-4253","Anzola – S. Pascual","Eje central andaluces","Ondulado",1,237.7,28.5,31.5
+"AND240-4253","Atarfe- S. Elvira","Eje central andaluces","Descenso",1,263.6,31.6,28.4
+"AND240-4253","Granada – Atarfe","Eje central andaluces","Descenso",1,200.2,8,44.9
+"AND240-4253","H. Tájar – Loja","Eje central andaluces","Descenso",1,136.2,26.1,54.9
+"AND240-4253","P. Puente – Anzola","Eje central andaluces","Ondulado",1,487.1,23.4,30.7
+"AND240-4253","Rabanera - Salas","Vallarizasoria","Descenso",1,323.8,40.3,56.7
+"AND240-4253","Revilla - Burgos","Vallarizasoria","Mixto",1,249.5,39.1,48.8
+"AND240-4253","S. Elvira – P.Puente","Eje central andaluces","Descenso",1,286.7,17.2,29.8
+"AND240-4253","S. Pascual – Íllora","Eje central andaluces","Ondulado",1,359.9,37,29.1
+"AND240-4253","Salas - Revilla","Vallarizasoria","Mixto",1,268.4,43.6,63.2
+"AND240-4253","Soria - Abéjar","Vallarizasoria","Ascenso",1,370.2,61.8,60
+"AND240-4253","Tocón – H. Tájar","Eje central andaluces","Descenso",1,138.6,16.6,46.3
+"AND240-4253","Íllora – Tocón","Eje central andaluces","Descenso",1,195.2,17.6,43.8
+"MZA 1701","Abéjar - Rabanera","Vallarizasoria","Ondulado",1,123.2,9.9,62.3
+"MZA 1701","Anzola – S. Pascual","Eje central andaluces","Ondulado",1,0,28.6,31.5
+"MZA 1701","Atarfe- S. Elvira","Eje central andaluces","Descenso",1,0,0,22.7
+"MZA 1701","Granada – Atarfe","Eje central andaluces","Descenso",1,200.6,8,49.8
+"MZA 1701","H. Tájar – Loja","Eje central andaluces","Descenso",1,0,6.6,45.8
+"MZA 1701","P. Puente – Anzola","Eje central andaluces","Ondulado",1,0,0,25.6
+"MZA 1701","Rabanera - Salas","Vallarizasoria","Descenso",1,168.3,8.7,62.4
+"MZA 1701","Revilla - Burgos","Vallarizasoria","Mixto",1,125,9.2,57.8
+"MZA 1701","S. Elvira – P.Puente","Eje central andaluces","Descenso",1,287.3,17.2,29.8
+"MZA 1701","S. Pascual – Íllora","Eje central andaluces","Ondulado",1,412.2,24.7,20.8
+"MZA 1701","Salas - Revilla","Vallarizasoria","Mixto",1,110.8,9.5,70.2
+"MZA 1701","Soria - Abéjar","Vallarizasoria","Ascenso",1,153.2,13.6,66.4
+"MZA 1701","Tocón – H. Tájar","Eje central andaluces","Descenso",1,46.3,11.1,49.8
+"MZA 1701","Íllora – Tocón","Eje central andaluces","Descenso",1,293.5,5.9,55.8
+"MZA 1801","Abéjar - Rabanera","Vallarizasoria","Ondulado",1,111.3,52.6,71
+"MZA 1801","Anzola – S. Pascual","Eje central andaluces","Ondulado",1,0,0,31.5
+"MZA 1801","Atarfe- S. Elvira","Eje central andaluces","Descenso",1,169,52.8,22.7
+"MZA 1801","Granada – Atarfe","Eje central andaluces","Descenso",1,214,13.4,44.9
+"MZA 1801","H. Tájar – Loja","Eje central andaluces","Descenso",1,174.7,32.8,54.9
+"MZA 1801","P. Puente – Anzola","Eje central andaluces","Ondulado",1,249.9,39,25.6
+"MZA 1801","Rabanera - Salas","Vallarizasoria","Descenso",1,60,76.9,59.4
+"MZA 1801","Revilla - Burgos","Vallarizasoria","Mixto",1,143.9,36.9,52
+"MZA 1801","S. Elvira – P.Puente","Eje central andaluces","Descenso",1,91.9,0,29.8
+"MZA 1801","S. Pascual – Íllora","Eje central andaluces","Ondulado",1,527.6,61.8,29.1
+"MZA 1801","Salas - Revilla","Vallarizasoria","Mixto",1,94.7,81,67.7
+"MZA 1801","Soria - Abéjar","Vallarizasoria","Ascenso",1,136.8,82.6,66.4
+"MZA 1801","Tocón – H. Tájar","Eje central andaluces","Descenso",1,0,18.5,54
+"MZA 1801","Íllora – Tocón","Eje central andaluces","Descenso",1,219.1,19.6,47.2
+"RN141-2106","Abéjar - Rabanera","Vallarizasoria","Ondulado",1,133.1,12.7,62.3
+"RN141-2106","Anzola – S. Pascual","Eje central andaluces","Ondulado",1,0,0,31.5
+"RN141-2106","Atarfe- S. Elvira","Eje central andaluces","Descenso",1,142.6,0,28.4
+"RN141-2106","Granada – Atarfe","Eje central andaluces","Descenso",1,144.5,12,49.8
+"RN141-2106","H. Tájar – Loja","Eje central andaluces","Descenso",1,147.4,9.8,49.9
+"RN141-2106","P. Puente – Anzola","Eje central andaluces","Ondulado",1,0,35.1,25.6
+"RN141-2106","Rabanera - Salas","Vallarizasoria","Descenso",1,77.9,8.7,54.3
+"RN141-2106","Revilla - Burgos","Vallarizasoria","Mixto",1,124.6,10.4,53.8
+"RN141-2106","S. Elvira – P.Puente","Eje central andaluces","Descenso",1,155.1,0,34.8
+"RN141-2106","S. Pascual – Íllora","Eje central andaluces","Ondulado",1,333.9,18.6,26.5
+"RN141-2106","Salas - Revilla","Vallarizasoria","Mixto",1,102.5,14.2,57.5
+"RN141-2106","Soria - Abéjar","Vallarizasoria","Ascenso",1,165.5,14.5,62
+"RN141-2106","Tocón – H. Tájar","Eje central andaluces","Descenso",1,0,8.3,54
+"RN141-2106","Íllora – Tocón","Eje central andaluces","Descenso",1,211.3,8.8,55.8

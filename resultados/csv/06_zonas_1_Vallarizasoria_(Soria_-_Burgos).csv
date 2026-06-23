@@ -1,0 +1,6 @@
+"nombre_zona","distancia_inicio_km","distancia_fin_km","tipo"
+"Ascenso y Meseta",0,45,"Ascenso"
+"Primer Descenso",45,55,"Descenso"
+"Tramo Ondulado",55,80,"Ondulado"
+"Bajada Prolongada",80,110,"Descenso"
+"Tramo Final",110,152,"Mixto"

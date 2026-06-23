@@ -1,0 +1,5 @@
+"locomotora","agua_media","carbon_media","velocidad_media","agua_mediana","carbon_mediana","velocidad_mediana","agua_cv","carbon_cv","velocidad_cv","agua_min","carbon_min","velocidad_min","agua_max","carbon_max","velocidad_max","agua_skewness","carbon_skewness","velocidad_skewness"
+"AND240-4253",277.83,32.17,43.49,266,30.08,44.35,34.2,47,28.2,136.22,8.01,28.4,487.07,61.81,63.2,0.384,0.297,0.137
+"RN141-2106",133.88,12.63,45.21,138.12,10.34,49.85,68,86,28.6,0,0,25.6,333.88,38.6,62.3,0.3,1.116,-0.234
+"MZA 1701",149.6,12.34,45.11,138.65,9.68,47.8,85.2,77.3,36.7,0,0,20.8,412.2,34.3,70.2,0.43,0.895,-0.034
+"MZA 1801",144.45,38.71,47.83,124.04,37.98,49.6,87.6,71.4,34.8,0,0,22.7,527.62,82.58,71,1.537,0.173,-0.061

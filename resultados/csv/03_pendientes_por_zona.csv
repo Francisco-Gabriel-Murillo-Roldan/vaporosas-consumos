@@ -1,0 +1,10 @@
+"id_zona","nombre_zona","tipo","longitud_km","pendiente_media","pendiente_max","pendiente_min","curvatura_media","n_puntos"
+1,"Ascenso y Meseta","Ascenso",45,0.14,2.62,-2.09,0.001633,748
+2,"Primer Descenso","Descenso",10,-0.93,1.05,-2.09,0.001969,161
+3,"Tramo Ondulado","Ondulado",25,-0.16,2.09,-2.88,0.001092,439
+4,"Bajada Prolongada","Descenso",30,-0.18,1.05,-1.57,0.00106,494
+5,"Tramo Final","Mixto",42,-0.27,2.09,-2.09,0.001418,691
+6,"Descenso Inicial","Descenso",12.85,-0.45,0.2,-2.1,0.000228,184
+7,"Valle Ondulado","Ondulado",9.51,0.34,2,-1.2,0.000267,145
+8,"Ascenso a Íllora","Ascenso",2.64,0.32,1.2,-0.2,0.000161,31
+9,"Descenso a Loja","Descenso",27.54,-0.3,1.2,-1.8,0.00021,264
